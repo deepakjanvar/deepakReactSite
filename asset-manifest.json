@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deepakReactSite/static/css/main.448e9674.css",
+    "main.js": "/deepakReactSite/static/js/main.873c2331.js",
+    "static/js/787.6a7f3461.chunk.js": "/deepakReactSite/static/js/787.6a7f3461.chunk.js",
+    "static/media/marketing.jpeg": "/deepakReactSite/static/media/marketing.f629aa392c4ff105f747.jpeg",
+    "static/media/app.jpeg": "/deepakReactSite/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/deepakReactSite/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/deepakReactSite/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/deepakReactSite/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/deepakReactSite/static/media/s1.8e51e67dff71d6464727.jpg",
+    "static/media/about.png": "/deepakReactSite/static/media/about.53f1b5467e5095dc4126.png",
+    "static/media/home.svg": "/deepakReactSite/static/media/home.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/deepakReactSite/index.html",
+    "main.448e9674.css.map": "/deepakReactSite/static/css/main.448e9674.css.map",
+    "main.873c2331.js.map": "/deepakReactSite/static/js/main.873c2331.js.map",
+    "787.6a7f3461.chunk.js.map": "/deepakReactSite/static/js/787.6a7f3461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448e9674.css",
+    "static/js/main.873c2331.js"
+  ]
+}
